@@ -1,4 +1,4 @@
-name: Sync any artifact from tenant
+name: Sync any artifact from tenant- QA
 
 on:
   workflow_dispatch:
